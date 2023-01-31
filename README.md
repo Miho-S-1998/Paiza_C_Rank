@@ -1,1 +1,1 @@
-# Paiza_C_Rank
+# paiza_c_rank
